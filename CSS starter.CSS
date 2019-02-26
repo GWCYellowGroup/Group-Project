@@ -1,6 +1,6 @@
 body {
   padding-left: 11em;
-  font-family: Georgia, JoseFin Sans,  Tillana; 
+  font-family: Georgia, JoseFin Sans, Tillana; 
   color: pink;
   background-color: #ffffff}
 .sidenav {
@@ -15,7 +15,7 @@ body {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #000000;
   display: block;
 }
 .sidenav a:hover {
@@ -35,7 +35,7 @@ h2 {}
   font-family: Georgia, Josefin Sans, Tillana; 
 
 ul.navbar li {
-  background: white;
+  background:#f1f1f1
  
   
 ul.navbar a {
@@ -46,4 +46,4 @@ a:link {
 
 a:visited {
   color: yellow;
-
+`
